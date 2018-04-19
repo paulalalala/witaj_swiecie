@@ -35,3 +35,56 @@ Amelia się nie spodziewała. Wyciągnęła ją i zawinęła w prześcieradło. 
 Wszystko skończyło się dobrze.
 
 **Amelia dostała nauczkę na całe swoje życie. Tak skończyła się bajka o Oli, Helenie, Natalce i Amelii.
+
+
+
+### listwa cwaat
+
+1. element
+2. waaat
+3. trzy kropka spacja
+1. lolololololo
+3. łełołełołe
+2. waaaaaaaaait
+
+### lista nienumerowana
+
+ananas
+
+melon
+
+kiwi
+
+## Linki
+
+[Strona GUMedu](http://www.gumed.edu.pl)
+
+<http://demotywatory.pl>
+
+## Obrazeczki
+
+![Smieszne](http://woleto.pl/memy/memy/22_536c81a394ce3.jpg)
+
+
+## Kod programistyczny
+
+```r
+library(tidyverse)
+select(mpg, hwy) %>% filter(hwy > 5)
+
+funkcja <- function() {
+print("bleble")
+}
+```
+
+### Tabelka
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+## Cytaty
+
